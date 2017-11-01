@@ -2,18 +2,18 @@ class Dog
 end
 
 
-# def bark
-#   puts "Woof!"
-# end
-# end
+def bark
+  puts "Woof!"
+end
+end
 
-# def sit
-#   puts "The Dog is sitting"
-# end
-# end
+def sit
+  puts "The Dog is sitting"
+end
+end
 
-# fido = Dog.new
-# fido.bark
+fido = Dog.new
+fido.bark
 
-# snoopy = Dog.new
-# snoopy.sit
+snoopy = Dog.new
+snoopy.sit
